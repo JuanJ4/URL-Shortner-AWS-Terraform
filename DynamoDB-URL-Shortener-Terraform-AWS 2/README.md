@@ -4,8 +4,7 @@ Terraform module for a AWS URL shortener
 
 Creates a url shortener using only ApiGateway and Dynamodb
 
-![URL_Shorten_Service](![urlshortener-aws](https://user-images.githubusercontent.com/23548321/212776624-095b8a90-9174-4b86-be94-3f78a5b0f913.png)
-)
+![URL_Shorten_Service](https://user-images.githubusercontent.com/23548321/212776706-88954c50-c85c-4f86-8055-d598d7db8b48.png)
 
 
 ![Amazon APIGateway Dashboard - JuanJ](https://user-images.githubusercontent.com/23548321/167808754-8808bbe7-c759-4db6-a87b-585dbd8c7a41.png)
